@@ -1,10 +1,10 @@
 # Neighborhood-Map
-A project to help a friend to learn web developer.
+A project to help a friend to learn web development.
 
 ## A short brief from this project
 
 ### Tools in project
-To make easy to learn i added some tools in this project.
+To make easier to learn i added some tools in this project.
 
 #### Live Reload
 Live Reload monitors changes in your source files and as soon as you save the file your browser is instantly updated without reloading the page.
@@ -29,15 +29,20 @@ It makes available all the syntactical sugar that was added to JavaScript with t
 
 We have the following list of folders in src folder
  - assets
-⋅⋅⋅Where yours css files are
+ 
+   Where yours css files are
  - helpers
-⋅⋅⋅Contains files with specific goals and that can be shared by all the system. For example googlemaps.js that manages all interactions with Google Maps. 
+ 
+   Contains files with specific goals and that can be shared by all the system. For example googlemaps.js that manages all interactions with Google Maps. 
  - models
-⋅⋅⋅Contains all models source file
+ 
+   Contains all models source file
  - viewModels
-⋅⋅⋅Contains all viewModels source file
+ 
+   Contains all viewModels source file
  - views (**I need to finish this process**)
-⋅⋅⋅Contains all html files for each component that will be added to your index.html. 
+ 
+   Contains all html files for each component that will be added to your index.html. 
 
 
 ## What you need to know to build this project.
